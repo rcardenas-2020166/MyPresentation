@@ -1,8 +1,8 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Rodrigo Cárdenas 👋 
 
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student and Developer , my passion is programming!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
