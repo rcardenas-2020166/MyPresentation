@@ -62,7 +62,7 @@ const thai = {
 <br>
 <br>
 
-<h1>Top langs :tongue:</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcardenas-2020166&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs"/>
+<h1>Top Languages</h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcardenas-2020166&langs_count=10&theme=tokyonight&layout=compact"/>
 
 
