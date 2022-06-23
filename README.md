@@ -57,7 +57,7 @@ const thai = {
 
 
 <h1>GitHub Stats</h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rcardenas-2020166&show_icons=true&hide_border=false&title_color=85C1E9&icon_color=85C1E9&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rcardenas-2020166&show_icons=true&hide_border=false&title_color=85C1E9&icon_color=85C1E9&bg_color=09131B&text_color=ffffff&border_color=white"/>
 
 <br>
 <br>
