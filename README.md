@@ -54,11 +54,11 @@ const myData = {
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
-<div style="padding-top:900px;">
+<br><br>
 <h2>GitHub Stats</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rcardenas-2020166&show_icons=true&hide_border=false&title_color=85C1E9&icon_color=85C1E9&bg_color=09131B&text_color=ffffff&border_color=white"/>
-</div>
 
-
+<br><br>
+<h2>Top Languages</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcardenas-2020166&langs_count=10&theme=tokyonight&layout=compact"/>
 
