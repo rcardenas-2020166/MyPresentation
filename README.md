@@ -58,7 +58,7 @@ const myData = {
 <h2>Top Languages</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcardenas-2020166&langs_count=10&theme=tokyonight&layout=compact"/>
 
-<br><br><br><br>
+<br><br><br>
 <br><br>
 
 <h2>GitHub Stats</h2>
