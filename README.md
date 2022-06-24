@@ -8,7 +8,7 @@ const myData = {
   name: "Rodrigo",
   surname: "Cárdenas",
   age: 19,
-  favoriteLenguaje: [Javascript, Typescript, HTML, CSS, PHP],
+  favoriteLenguage: [Javascript, Typescript, Python, Java, PHP],
   schoolData: {
                         school: "Centro Educativo Técnico Laboral Kinal",
                         grade: "Sexto Perito en Informática",
