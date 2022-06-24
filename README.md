@@ -48,6 +48,9 @@ const myData = {
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/angular-icon-logo-vector.svg" style="padding-right:10px;" />
+<img align="left" alt="Cisco" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1280px-Cisco_logo_blue_2016.svg.png" style="padding-right:10px;"/>
+
 <br><br>
 
 <h2>Top Languages</h2>
