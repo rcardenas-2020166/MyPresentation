@@ -55,10 +55,9 @@ const myData = {
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <br><br>
-<h2>GitHub Stats</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rcardenas-2020166&show_icons=true&hide_border=false&title_color=85C1E9&icon_color=85C1E9&bg_color=09131B&text_color=ffffff&border_color=white"/>
-
-<br><br>
 <h2>Top Languages</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcardenas-2020166&langs_count=10&theme=tokyonight&layout=compact"/>
 
+<br><br>
+<h2 style="padding-top:3%">GitHub Stats</h2>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rcardenas-2020166&show_icons=true&hide_border=false&title_color=85C1E9&icon_color=85C1E9&bg_color=09131B&text_color=ffffff&border_color=white"/>
