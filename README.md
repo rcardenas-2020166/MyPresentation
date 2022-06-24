@@ -13,7 +13,7 @@ const myData = {
                         school: "Centro Educativo Técnico Laboral Kinal",
                         grade: "Sexto Perito en Informática",
                         technicalCode: "IN6AV"
-              },
+              }
 }
 ```
 
